@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\nAdnan\ Rehman\ \r\n\r\nBugs\:\ Zombies\ might\ stand\ still\ if\ too\ many\ of\ them\ are\ colliding\ at\ once,\ fixes\ if\ you\ move\r\nso\ its\ not\ really\ a\ problem\r\nImage\ of\ a\ bullet\ may\ get\ frozen/stuck\ in\ the\ world\ if\ you\ shoot\ too\ fast,\ no\ effect\ on\ the\ functionality\ of\ the\ game\r\n\r\n
+comment1.params=
+comment1.target=Map()
+comment1.text=\ \r\n\ Constructor\ for\ objects\ of\ class\ Map.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ Win()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ zombieSpawn()
+comment5.params=
+comment5.target=void\ checkMouse()
+comment6.params=
+comment6.target=HealthBar\ getHealthBar()
+comment7.params=
+comment7.target=Counter\ getCounter()
+comment8.params=
+comment8.target=void\ increaseDifficulty()
+comment9.params=
+comment9.target=void\ Dead()
+numComments=11
